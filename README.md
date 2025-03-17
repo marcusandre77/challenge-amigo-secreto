@@ -1,4 +1,4 @@
-![Template Alura](https://github.com/gui-lirasilva/Edige-POO/blob/master/Template/Thumbnails%20GitHub.png?raw=true)
+![Descricao da sua imagem](https://repository-images.githubusercontent.com/950205115/a36f6066-85df-4ec8-8677-ca6fda5f3311)
 
 # Challenge Amigo Secreto
 
@@ -31,9 +31,7 @@ Após baixar o projeto, você pode abrir o arquivo index.html em qualquer browse
 5. Se necessário, clique em "Limpar Lista" para reiniciar o sorteio.
 
 ## 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/gui-lirasilva/Edige-POO/tree/master/src).
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/marcusandre77/challenge-amigo-secreto)
 
 
-![Descricao da sua imagem](https://raw.githubusercontent.com/andreocunha/upload_files_test/main/exemplo-thumb.png)
 
-![](https://img.shields.io/github/license/alura-cursos/android-com-kotlin-personalizando-ui)
